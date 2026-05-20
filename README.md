@@ -1,11 +1,11 @@
 # Hi 👋, I'm Antonio Barbosa
 
-- 🔭 I’m currently working on [Buk](https://github.com/bukhr)
 - 🌱 I’m currently learning Generative AI
 - 🤝 I’m looking to collaborate on Open-Source projects
 - 📄 My experiences: [linkedin.com/in/aboneto](https://www.linkedin.com/in/aboneto/)
 - 📝 I occasionally write articles:
 
+  - [aboneto.dev](https://aboneto.dev/)
   - [Buk Tech Blog](https://buk.engineering/authors/aboneto.html)
   - [aboneto.medium.com](https://aboneto.medium.com/)
 - 💬 Ask me about Software Architecture, Terraform, Cloud, Typescript, React and Python
